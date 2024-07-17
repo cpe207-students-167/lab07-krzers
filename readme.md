@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ณัฏพัฒน์ บุตรสิงห์
 
-GitHub Page URL : https://cpe207-students-167.github.io/lab07-krzers/index.html
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-krzers/
 
 ---
 
